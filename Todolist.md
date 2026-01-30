@@ -11,8 +11,9 @@
 - [] sitemap
 - [] user flow
 - [] wireframe
-- [] design system
+- [] design system such as colors, typography, components, layout, icons
 - [] pages design
+- [] interactive prototype
 
 ### TODO [frontend] 
 - [] Component
