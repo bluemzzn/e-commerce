@@ -6,7 +6,7 @@
 - support secure digital payment
 - task should have status: TODO, DOING, DONE
 
-### TODO [ux/ui]
+### DOING [ux/ui]
 - [] find the ui component
 - [] sitemap
 - [] user flow
@@ -29,6 +29,7 @@
     - [] hide password
     - [] password validation
     - [] register 
+    - [] 3 roles : admin | seller | client
 
 - [] Shop
     - [] products : search and categorization of products.
