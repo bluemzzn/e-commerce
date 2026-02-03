@@ -13,3 +13,10 @@
 - sales reports
 - payout/earnings
 - shop settings 
+
+## user flow
+1. define the user and tbei goal 
+2. identify the entry point
+3. map out the step
+4. include decision point
+5. determine endpoint
