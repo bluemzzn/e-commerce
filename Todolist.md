@@ -9,6 +9,7 @@
 
 ### DOING [ux/ui]
 - [X] sitemap
+- [X] user journey
 - [] user flow
 - [] wireframe
 - [] design system such as colors, typography, components, layout, icons
