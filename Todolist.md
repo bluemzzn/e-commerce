@@ -4,11 +4,11 @@
 - users unable to access unallowed page
 - admin can management role
 - support secure digital payment
+- in shopee use seperated website between admin and client but i will use same website
 - task should have status: TODO, DOING, DONE
 
 ### DOING [ux/ui]
-- [] find the ui component
-- [] sitemap
+- [X] sitemap
 - [] user flow
 - [] wireframe
 - [] design system such as colors, typography, components, layout, icons
