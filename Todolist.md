@@ -11,7 +11,7 @@
 - [X] sitemap
 - [X] user journey
 - [] user flow
-- [] wireframe
+- [X] wireframe
 - [] design system such as colors, typography, components, layout, icons
 - [] pages design
 - [] interactive prototype
