@@ -10,7 +10,7 @@
 ### DOING [ux/ui]
 - [X] sitemap
 - [X] user journey
-- [] user flow
+- [X] user flow
 - [X] wireframe
 - [] design system such as colors, typography, components, layout, icons
 - [] pages design
