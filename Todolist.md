@@ -12,7 +12,7 @@
 - [X] user journey
 - [X] user flow
 - [X] wireframe
-- [] design system such as colors, typography, components, layout, icons
+- [X] design system such as colors, typography, components, layout, icons
 - [] pages design
 - [] interactive prototype
 
