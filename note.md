@@ -20,3 +20,5 @@
 3. map out the step
 4. include decision point
 5. determine endpoint
+
+flow : place order -> create order(status : pending) -> Show payment instructions -> user upload slip -> auto verify -> update status: paid -> deduct inventory -> prepare shiping -> update status : shipped -> delivered -> complete
