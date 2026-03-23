@@ -14,6 +14,11 @@
 - [X] wireframe
 - [X] design system such as colors, typography, components, layout, icons
 - [] pages design
+    [X] landing page
+    [] products page
+    [] product details page
+    [] profile page
+    [] cart page
 - [] interactive prototype
 
 ### TODO [frontend] 
