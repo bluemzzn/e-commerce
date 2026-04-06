@@ -6,12 +6,12 @@ export default function SignIn() {
     <div className="flex flex-col mx-auto justify-center items-center">
       <div className="signup-navbar ">
         <div></div>
-        <h1 className="font-md text-4xl">Sign Up</h1>
+        <h1 className="font-md text-2xl mb-5">Sign Up</h1>
       </div>
-      <div className="wrapper border w-fit p-5">
+      <div className="wrapper border w-fit p-5 space-y-4">
         <h1 className="my-2 font-semibold">Sign Up</h1>
         <input
-          className="border px-2 w-full"
+          className="border px-2 py-1 items-center w-full rounded-sm"
           type="text"
           name="username"
           id="username"
@@ -20,7 +20,7 @@ export default function SignIn() {
         <br />
 
         <input
-          className="border my-2 px-2 w-full"
+          className="border px-2 py-1 items-center w-full rounded-sm"
           type="email"
           name="email"
           id="email"
@@ -29,21 +29,21 @@ export default function SignIn() {
 
         <br />
         <input
-          className="border px-2 w-full"
+          className="border px-2 py-1 items-center w-full rounded-sm"
           type="text"
           name="password"
           id="password"
           placeholder="password"
         />
         <br />
-        <CustomButton className="w-full my-4" variant={"primary"} size={"sm"}>Sign Up</CustomButton>
+        <CustomButton className="w-full" variant={"primary"} size={"sm"}>Sign Up</CustomButton>
 
         <div className="flex gap-2">
         <p>Already have an account?</p>
-        <a href="" className="underline">Log in</a>
+        <a href="" className="underline text-(--color-golden) font-semibold">Log in</a>
         </div>
 
-        <div className="flex justify-center items-center gap-2 w-full mb-4">
+        <div className="flex justify-center items-center gap-2 w-full">
           <hr className="w-1/3" />
           <p>or</p>
           <hr className="w-1/3" />

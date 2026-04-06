@@ -2,14 +2,17 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --color-primary: #162C55;
+  --color-secondary: #2D5494;
+  --color-yellow: #F5A623;
+  --color-golden: #E8921A;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@theme {
+  --color-primary: #162C55;
+  --color-secondary: #2D5494;
+  --color-yellow: #F5A623;
+  --color-golden: #E8921A;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -20,5 +23,5 @@
 }
 
 body {
-  background: wheat;
+  background: whitesmoke;
 }

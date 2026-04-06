@@ -23,7 +23,7 @@ const buttonVariants = cva(
         destructive: "",
         ok: "",
         link: "",
-        outline : 'bg-transparent hover:bg-gray-100 text-black border border-black'
+        outline : 'bg-transparent hover:bg-gray-200 text-black border border-black'
       },
       size: {
         default: "px-8 py-2",
